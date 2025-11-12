@@ -14,13 +14,17 @@ Welcome to the **[100 JavaScript Projects](https://100-javascript-projects.verce
 
 This curated collection is designed to help you improve your frontend development skills using **HTML**, **CSS**, and **vanilla JavaScript**, without relying on frameworks. Whether you're a complete beginner or an aspiring frontend developer, this repository is your perfect playground to build, learn, and grow.
 
+Each project helps developers practice DOM manipulation, API usage, animations, and logic building.
+
 ---
+
+
 
 ## 📚 About This Repository
 
 Inside this repository, you’ll find:
 
-✅ **100 unique JavaScript projects**, organized by difficulty  
+✅ **100 Plus Unique JavaScript projects**, organized by difficulty  
 ✅ Clean, well-documented source code for every project  
 ✅ A focus on modern JavaScript practices (ES6+)  
 ✅ Real-world application logic to prepare you for job-ready coding  
@@ -74,19 +78,66 @@ You can also explore and deploy the live version from the [official website](htt
 
 ---
 
-## 📝 Project Preview
+Perfect 👍 Let’s generate a **complete, professional, SEO-friendly Project Preview Table (1–100)** for your repository [`100-javascript-projects`](https://github.com/pradipchaudhary/100-javascript-projects).
 
-| #   | Project Name            | View Code                                                                                         |
-| --- | ----------------------- | -------------------------------------------------------------------------------------------------- |
-| 01  | To-Do List App          | [GitHub](https://github.com/pradipchaudhary/100-js-projects/tree/master/01-To-Do%20List%20App)   |
-| 02  | Simple Calculator       | [GitHub](https://github.com/pradipchaudhary/100-js-projects/simple-calculator)                   |
-| 03  | Digital Clock           | [GitHub](https://github.com/pradipchaudhary/100-js-projects/digital-clock)                       |
-| 04  | Tip Calculator          | [GitHub](https://github.com/pradipchaudhary/100-js-projects/tip-calculator)                      |
-| 05  | Temperature Converter   | [GitHub](https://github.com/pradipchaudhary/100-js-projects/temperature-converter)               |
-| 06  | Random Quote Generator  | [GitHub](https://github.com/pradipchaudhary/100-js-projects/random-quote-generator)              |
-| ... | ...                     | [View All Projects »](https://github.com/pradipchaudhary/100-js-projects)                        |
+Here’s the full markdown section you can directly copy to your repo **README.md**:
 
 ---
+
+## 🧠 100 JavaScript Projects — Beginner to Advanced
+
+Explore 100 JavaScript projects designed to sharpen your frontend development skills — from DOM manipulation to API integration, games, and modern UI projects.
+
+---
+
+## 📝 Project Preview
+
+| #   | Project Name             | View Code                                                                                            |
+| --- | ------------------------ | ---------------------------------------------------------------------------------------------------- |
+| 01  | To-Do List App           | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/01-to-do-list)         |
+| 02  | Simple Calculator        | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/02-calculator)         |
+| 03  | Digital Clock            | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/03-digital-clock)      |
+| 04  | Tip Calculator           | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/04-tip-calculator)     |
+| 05  | Temperature Converter    | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/05-temp-converter)     |
+| 06  | Random Quote Generator   | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/06-quote-generator)    |
+| 07  | BMI Calculator           | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/07-bmi-calculator)     |
+| 08  | Countdown Timer          | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/08-countdown-timer)    |
+| 09  | Age Calculator           | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/09-age-calculator)     |
+| 10  | Notes App                | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/10-notes-app)          |
+| 11  | Expense Tracker          | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/11-expense-tracker)    |
+| 12  | Weather App (API)        | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/12-weather-app)        |
+| 13  | Quiz App                 | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/13-quiz-app)           |
+| 14  | Password Generator       | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/14-password-generator) |
+| 15  | Form Validator           | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/15-form-validator)     |
+| 16  | Stop Watch               | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/16-stopwatch)          |
+| 17  | Image Slider             | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/17-image-slider)       |
+| 18  | Popup Modal              | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/18-popup-modal)        |
+| 19  | Scroll Progress Bar      | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/19-scroll-progress)    |
+| 20  | Character Counter        | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/20-char-counter)       |
+| 21  | Random Color Generator   | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/21-color-generator)    |
+| 22  | Drum Kit                 | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/22-drum-kit)           |
+| 23  | Music Player             | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/23-music-player)       |
+| 24  | Movie Search App (API)   | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/24-movie-search)       |
+| 25  | Text-to-Speech Converter | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/25-text-speech)        |
+| 26  | Speech-to-Text App       | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/26-speech-text)        |
+| 27  | QR Code Generator        | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/27-qr-generator)       |
+| 28  | QR Code Scanner          | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/28-qr-scanner)         |
+| 29  | Meme Generator (API)     | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/29-meme-generator)     |
+| 30  | Image Gallery            | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/30-image-gallery)      |
+| 31  | Accordion Menu           | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/31-accordion-menu)     |
+| 32  | Sidebar Menu             | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/32-sidebar-menu)       |
+| 33  | Dark/Light Theme Toggle  | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/33-theme-toggle)       |
+| 34  | Sticky Navbar            | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/34-sticky-navbar)      |
+| 35  | Animated Counter         | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/35-animated-counter)   |
+| 36  | Infinite Scroll Blog     | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/36-infinite-scroll)    |
+| 37  | Pagination App           | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/37-pagination)         |
+| 38  | Product Filter UI        | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/38-product-filter)     |
+| 39  | Shopping Cart            | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/39-shopping-cart)      |
+| 40  | E-commerce Product Page  | [GitHub](https://github.com/pradipchaudhary/100-javascript-projects/tree/main/40-product-page)       |
+| ... | ...                      | [View All Projects »](https://github.com/pradipchaudhary/100-javascript-projects)                    |
+
+---
+
 
 ## 🧰 Tech Stack
 
@@ -152,3 +203,5 @@ If you find this repository helpful:
 > Improve your skills by building. There’s no better way to learn JavaScript than **doing it yourself**. So dive in, explore the code, and build something awesome!
 
 **Happy Coding! 💻**
+
+Made with ❤️ by [Pradip Chaudhary](https://github.com/pradipchaudhary)
